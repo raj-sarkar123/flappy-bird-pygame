@@ -48,5 +48,5 @@ A fully functional Flappy Bird clone built using **Python** and **Pygame**, feat
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flappy-bird-pygame.git
+https://github.com/raj-sarkar123/flappy-bird-pygame
 cd flappy-bird-pygame
