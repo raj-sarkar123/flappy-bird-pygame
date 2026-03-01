@@ -1,0 +1,1 @@
+self.sfx_flap = pg.mixer.Sound("assets/sfx/flap.wav")
